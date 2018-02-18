@@ -1,2 +1,2 @@
 # test
-test proj
+test proj to run git commands
